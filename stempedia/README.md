@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+## STEMpedia Assignment ##
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>> Vedio Link : https://drive.google.com/file/d/10cG84C_s8dMrQBolRpc42qImvaxWWLQP/view
 
-## Available Scripts
+[screen-capture.webm](https://github.com/ask0111/-iron_man_repo/assets/88626935/90169722-0351-450a-926b-6ea9323be53e)
 
-In the project directory, you can run:
+>> Codes of Assignment :
 
-### `npm start`
+>> Code Images -
+* Files -
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![files](https://github.com/ask0111/-iron_man_repo/assets/88626935/a67d049e-9e39-410f-8f3b-2a0ef13d27f9)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<hr/>
 
-### `npm test`
+* index.js
+![indexjs](https://github.com/ask0111/-iron_man_repo/assets/88626935/e679eb6a-2e32-4c02-b0aa-3ccc103bc3b0)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<hr/>
 
-### `npm run build`
+* Component A (A.js)
+![AJS](https://github.com/ask0111/-iron_man_repo/assets/88626935/67ac3336-8891-4006-8826-12daf731fa79)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Component B (B.js)
+![BJS](https://github.com/ask0111/-iron_man_repo/assets/88626935/c5ced8ad-8d25-485a-806b-08061dca8443)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr/>
 
-### `npm run eject`
+* Component C (C.js)
+![CJS](https://github.com/ask0111/-iron_man_repo/assets/88626935/caeece42-c79a-41d0-a2d4-574dd8478774)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<hr/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Store.js
+ ![store](https://github.com/ask0111/-iron_man_repo/assets/88626935/403da1fc-9156-4981-a1e0-7e868c881e17)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<hr/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* action/index.js
+ ![action](https://github.com/ask0111/-iron_man_repo/assets/88626935/f895892d-cd40-492f-a1ea-c3a4a0cd99ef)
 
-## Learn More
+<hr/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* reducer/index.js
+ ![reducer1](https://github.com/ask0111/-iron_man_repo/assets/88626935/1d3296b0-cb2b-4043-bd6f-6d75bf825c64)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<hr/>
 
-### Code Splitting
+* reducer/inputValue.js
+ ![reducer2](https://github.com/ask0111/-iron_man_repo/assets/88626935/75678d35-0ae3-4085-8b48-15b4a7f1f1dd)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<hr/>
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* package.json
+ ![dep](https://github.com/ask0111/-iron_man_repo/assets/88626935/c8b6cb89-5904-4de8-87ad-42a5ec39da3a)
